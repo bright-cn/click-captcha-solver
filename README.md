@@ -17,7 +17,7 @@ Bright Data 的验证码求解器是 [**抓取浏览器**](https://www.bright.cn
 6. [事件监控](#事件监控)  
 7. [价格](#价格)  
 8. [开发者为什么喜爱 Click CAPTCHA Solver](#开发者为什么喜爱-click-captcha-solver)  
-9. [常见问题（FAQ）](#常见问题faq)  
+9. [常见问题（FAQ）](#常见问题)  
 10. [告别点击型验证码](#告别点击型验证码)  
 
 ---
