@@ -1,6 +1,6 @@
 # Click CAPTCHA Solver（点击型验证码求解器）  
 
-[![宣传横幅](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/click-captcha)
+[![宣传横幅](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/click-captcha)
 
 轻松绕过点击型验证码，使用 Bright Data 先进的验证码解决技术。借助机器学习算法、[自动 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)以及强大的代理网络，确保对目标网站的稳定、持续访问。
 
